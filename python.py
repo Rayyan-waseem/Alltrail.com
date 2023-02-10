@@ -57,3 +57,10 @@ for x in fruits:
     break
   print(x)
 
+
+#This is a Function
+  def my_function():
+   print("Hello from a function")
+
+my_function()
+
